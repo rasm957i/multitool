@@ -1,0 +1,1 @@
+Trying out osu!'s api to get a better understanding of how to utilize an API, and developing a tool based on that environment.
